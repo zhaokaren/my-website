@@ -1,0 +1,31 @@
+.Modal{
+    position:absolute;
+    top:0px;
+    right:0px;
+    left:0px;
+    bottom:0px;
+    background-color: #fcfdff;
+    z-index:101;
+}
+
+#pop-up{
+    background-color: #fcfdff;
+    z-index: 101;
+    position:static;
+    text-align: center;
+    width:100vw
+}
+#pop-up h1{
+    font-weight: 900;
+    margin-bottom: 0;
+    color:black;
+}
+#pop-up p{
+    background:#f9d835;
+    padding-top:    1px;
+    padding-bottom: 1px;
+    font:10px;
+}
+#pop-up-text{
+    display: inline-block;
+}
