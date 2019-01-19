@@ -4,6 +4,7 @@ import './PopUpExample.css'
 import ReactModal from 'react-modal';
 import PopUp from './PopUpDisplay.js'
 import PopUp2 from './CFC.js'
+import PopUp3 from './Webmaster.js'
 
 
 class Box extends Component{
@@ -46,7 +47,7 @@ class Box extends Component{
                 <button onClick={this.handleCloseModal} type="button" class="close" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
-                    <PopUp2/>
+                    <PopUp3/>
                 </ReactModal>
                 </div>
             
