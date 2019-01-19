@@ -2,13 +2,15 @@ import React, {Component} from 'react'
 import './ContactPage.css'
 import Logo1 from './LinkedIn.png'
 import Logo2 from './Mail.png'
+import ContactLogo from './ContactLogo.js'
+import Logo3 from './Github.png'
 
 class ContactPage extends Component {
     render(){
         return(
             <div id="body">
                 <div style={{textAlign:'center'}} class="container">
-                <h1 style={{padding:'15px'}}>where to find me!</h1>
+                <h1 style={{padding:'14px'}}>lets get in touch!</h1>
                 </div>
                 <span></span>
                 <span></span>
@@ -21,18 +23,25 @@ class ContactPage extends Component {
                     <table>
                         <tr>
                             <td>
-                                <div className="LinkContainer"><a className="logoimg" href="http://linkedin.com/in/karenjyzhao"><img src={Logo1}/></a></div>
+                                <ContactLogo
+                                    src={Logo2}
+                                    name="Email"
+                                />
                             </td>
                             <td>
-                                <div className="LinkContainer"><img className="logoimg" src={Logo2}/></div>
+                                <ContactLogo
+                                    src={Logo1}
+                                    name="LinkedIn"
+                                />
+                            </td>
+                            <td>
+                                <ContactLogo
+                                    src={Logo3}
+                                    name="Github"
+                                />
                             </td>
                         </tr>
-                        <tr>
-                            <td>LinkedIn</td>
-                            <td>Email</td>
-                            <td>Some random Coffee Shop</td>
-                        </tr>
-                   
+  
                     </table>
                     </div>
                 </div>

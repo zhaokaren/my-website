@@ -4,7 +4,7 @@ import Box from "./Box.js";
 import CFC from "./cfc.png";
 import MM from "./minionmunch.jpg";
 import FW from "./froshsticker.png";
-
+import WB from "./web.png"
 
 class Page extends Component {
     render(){
@@ -28,6 +28,11 @@ class Page extends Component {
                         name ="Frosh Week"
                         type="Graphic Design"
                     /> 
+                    <Box
+                        src={WB}
+                        name="campaigns.skule.ca"
+                        type="UI/UX"
+                    />
                 </div>
             </div>
             
