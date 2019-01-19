@@ -3,39 +3,17 @@ img{
     margin:0;
     height: 100%;
 }
-.overlay{
-    display:absolute;
-    z-index:2;
-    width:100%;
-    height:100%;
-}
 
 .container:hover img{
     webkit-filter: blur(3px); 
     filter: blur(3px);
     transition: 0.5s;
 }
-.container:hover .overlay{
-    opacity:1;
-    transition: 0.5s;
-}
+
 .me{
     position:absolute;
-    z-index:-1;
+    display:inline-block;
 }
-.overlay{
-    position:absolute;
-    z-index:1;
-    opacity:0;
-    text-align:center;
-}
-.overlay h3{
-    padding-top:70px;
-    text-align:center;
-    color:black
-    
-}
-
-.popup{
-    background-color:green;
+#block{
+    display:inline-block
 }

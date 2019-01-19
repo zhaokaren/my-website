@@ -28,14 +28,13 @@ class Box extends Component{
 
     render(){
         return(
-            <div className="Container" class="col-sm-3 container" style={{padding:'0'}}>
+            <div class="col-sm-3">
+            <h3>{this.props.name}</h3>
+            <p>{this.props.type}</p>
+            <div class="container" style={{padding:'0'}}>
                 <div onClick={this.handleOpenModal}>
                     <div class="me">
                         <img className="display-photo" src={this.props.src} alt={this.props.name}/>
-                    </div>
-                    <div>
-                        <h3>{this.props.name}</h3>
-                        <p>{this.props.type}</p>
                     </div>
                 </div>
                 <div>
@@ -50,8 +49,10 @@ class Box extends Component{
                     <PopUp3/>
                 </ReactModal>
                 </div>
-            
             </div>
+            <h3>{this.props.name}</h3>
+            </div>
+        
         );
     }
 }

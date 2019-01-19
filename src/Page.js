@@ -5,13 +5,14 @@ import CFC from "./cfc.png";
 import MM from "./minionmunch.jpg";
 import FW from "./froshsticker.png";
 import WB from "./web.png"
+import PopUp3 from './Webmaster.js'
 
 class Page extends Component {
     render(){
         return(
             <div id="body1">
             <h1 style={{padding:'15px'}} className='header'>Projects + Portfolio</h1>
-                <div class="row">
+                <div class="row" class="row-block">
                     <Box 
              
                         src={MM}
@@ -32,8 +33,10 @@ class Page extends Component {
                         src={WB}
                         name="campaigns.skule.ca"
                         type="UI/UX"
+                    
                     />
                 </div>
+    
             </div>
             
         );
