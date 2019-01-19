@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "14ecf15af0c1911976e5",
-    "url": "/static/css/main.a76fa76d.chunk.css"
+    "revision": "8194f227df1a59a9c97b",
+    "url": "/static/css/main.8b6d4ab2.chunk.css"
   },
   {
-    "revision": "14ecf15af0c1911976e5",
-    "url": "/static/js/main.14ecf15a.chunk.js"
+    "revision": "8194f227df1a59a9c97b",
+    "url": "/static/js/main.8194f227.chunk.js"
   },
   {
-    "revision": "e557641a86cb7b3a4219",
-    "url": "/static/js/1.e557641a.chunk.js"
+    "revision": "ab01bc7634cfd6858401",
+    "url": "/static/js/1.ab01bc76.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -32,6 +32,10 @@ self.__precacheManifest = [
     "url": "/static/media/Mail.c79f65e6.png"
   },
   {
+    "revision": "10d854eccd9b944c7c807e3d8e7c591e",
+    "url": "/static/media/Github.10d854ec.png"
+  },
+  {
     "revision": "1c7836596fb375443dda236fb2a99c4e",
     "url": "/static/media/cfccomp.1c783659.png"
   },
@@ -52,7 +56,11 @@ self.__precacheManifest = [
     "url": "/static/media/froshsticker.82a39173.png"
   },
   {
-    "revision": "8b777aa9c497b233daaae8933dde5487",
+    "revision": "749cee8f6ad746984fd02ccb0bf9819f",
+    "url": "/static/media/web.749cee8f.png"
+  },
+  {
+    "revision": "21892c25811af2525f2658196842eeea",
     "url": "/index.html"
   }
 ];
