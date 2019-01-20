@@ -46,7 +46,8 @@ class Box extends Component{
                 <button onClick={this.handleCloseModal} type="button" class="close" aria-label="Close">
                     <span aria-hidden="true">&times;</span>
                 </button>
-                    <PopUp3/>
+                    {this.props.pop}
+             
                 </ReactModal>
                 </div>
             </div>

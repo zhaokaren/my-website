@@ -5,6 +5,7 @@ import CFC from "./cfc.png";
 import MM from "./minionmunch.jpg";
 import FW from "./froshsticker.png";
 import WB from "./web.png"
+import PopUp2 from './CFC.js'
 import PopUp3 from './Webmaster.js'
 
 class Page extends Component {
@@ -23,6 +24,8 @@ class Page extends Component {
                         src={CFC}
                         name = "Cafes for Change"
                         type="Graphic Design"
+                        pop={<PopUp2/>}
+
                     />
                     <Box 
                         src={FW}
@@ -33,6 +36,7 @@ class Page extends Component {
                         src={WB}
                         name="campaigns.skule.ca"
                         type="UI/UX"
+                        pop={<PopUp3/>}
                     
                     />
                 </div>

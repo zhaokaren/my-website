@@ -31,7 +31,7 @@
     background-color: #fcfdff;
     z-index: 101;
     position:static;
-    text-align: center;
+
     width:100vw
 }
 #pop-up h1{
@@ -50,7 +50,9 @@
 .dp{
     width:45%;
     display:flex;
-
+    border: none;
+    display: block;
+    margin: 0 auto;
 }
 .dp-container{
     padding-left: 100px;
@@ -67,8 +69,14 @@
     height:100%;
 }
 .modal-container{
-    text-align:center;
+
 }
 #row{
 
+}
+#tablecomp td{
+    color:black;
+    text-align:left;
+    padding:0px;
+    margin:10px
 }
