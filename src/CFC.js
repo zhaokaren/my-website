@@ -3,6 +3,7 @@ import "./CFC.css";
 import CFCComp from "./cfccomp.png"
 import Paragraph from './Paragraph.js'
 import img1 from './cfcpics/cfccolour.png'
+import img2 from './cfcpics/cfcdisplay.png'
 class PopUp2 extends Component {
 render(){
         return(
@@ -17,6 +18,7 @@ render(){
             </div>
             <div class="modal-container">
                 <div id="display-background">
+                        <img class="dp" src={img2}/>
                     <div>
                     
                     </div>

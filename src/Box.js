@@ -51,7 +51,6 @@ class Box extends Component{
                 </ReactModal>
                 </div>
             </div>
-            <h3>{this.props.name}</h3>
             </div>
         
         );
