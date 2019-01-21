@@ -1,13 +1,4 @@
-.Modal{
-    position:absolute;
-    top:0px;
-    right:0px;
-    left:0px;
-    bottom:0px;
-    background-color: #fcfdff;
-    z-index:101;
-}
-#header-colour{
+#header-colourg{
     background-color: #d6e7f2;
     text-align:center;
     padding:10px;
@@ -45,9 +36,7 @@
 #display-background img{
     height:100%;
 }
-.modal-container{
 
-}
 #row{
 
 }

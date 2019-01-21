@@ -1,11 +1,8 @@
-import React, {Component} from 'react';
-import "./CFC.css";
-import CFCComp from "./cfccomp.png"
-import Paragraph from './Paragraph.js'
-import cfc1 from './cfcpics/cfccolour.png'
-import cfc2 from './cfcpics/cfcdisplay.png'
-class PopUp2 extends Component {
-render(){
+import React, {Component} from 'react'
+import Paragraph from './Paragraph'
+import './FroshWeek.css'
+class PopUp1 extends Component {
+    render(){
         return(
             <div class="container1">
             <div>
@@ -18,7 +15,7 @@ render(){
             </div>
             <div class="modal-container">
                 <div id="display-background">
-                        <img class="dp" src={cfc2}/>
+                        <img class="dp" />
                     <div>
                     
                     </div>
@@ -37,7 +34,7 @@ render(){
                                 The primary purpose of this logo will be for stickers at coffee shops which offer discounts as an
                                 identifier."
                             /> 
-                            <img src={cfc1}/>
+                            <img />
                         </div>
                         <div class="col-lg-3 col-md-2 col-sm-1">
                         </div>
@@ -49,4 +46,5 @@ render(){
     }
 }
 
-export default PopUp2
+
+export default PopUp1 

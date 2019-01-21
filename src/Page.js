@@ -2,11 +2,13 @@ import React, {Component} from 'react';
 import "./Page.css";
 import Box from "./Box.js";
 import CFC from "./cfc.png";
-import MM from "./minionmunch.jpg";
+import MM from "./mmpics/mmdisplay.jpg";
 import FW from "./froshsticker.png";
 import WB from "./web.png"
 import PopUp2 from './CFC.js'
 import PopUp3 from './Webmaster.js'
+import PopUp1 from './FroshWeek.js'
+import PopUp4 from './MinionMunch.js'
 
 class Page extends Component {
     render(){
@@ -19,6 +21,8 @@ class Page extends Component {
                         src={MM}
                         name="Minion Munch"
                         type="Graphic Design"
+                        pop={<PopUp4/>}
+
                     />
                     <Box 
                         src={CFC}
@@ -31,6 +35,8 @@ class Page extends Component {
                         src={FW}
                         name ="Frosh Week"
                         type="Graphic Design"
+                        pop={<PopUp1/>}
+                        
                     /> 
                     <Box
                         src={WB}
