@@ -26,18 +26,21 @@ class ContactPage extends Component {
                                 <ContactLogo
                                     src={Logo2}
                                     name="Email"
+                                    link="mailto:karen.zhao@mail.utoronto.ca"
                                 />
                             </td>
                             <td>
                                 <ContactLogo
                                     src={Logo1}
                                     name="LinkedIn"
+                                    link="linkedin.com/in/karenjyzhao"
                                 />
                             </td>
                             <td>
                                 <ContactLogo
                                     src={Logo3}
                                     name="Github"
+                                    link="https://github.com/zhaokaren"
                                 />
                             </td>
                         </tr>

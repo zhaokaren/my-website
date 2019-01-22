@@ -14,7 +14,7 @@ class SideBar extends Component {
                     <Link to='/portfolio'>Portfolio</Link>
                     <Link to='contact'>Contact</Link>
                 <footer>
-                    <p>made with &hearts; by me </p>
+                    <p><b>made with &hearts; by me </b></p>
                 </footer>
             </div>
         );

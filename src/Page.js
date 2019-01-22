@@ -35,8 +35,7 @@ class Page extends Component {
                         src={FW}
                         name ="Frosh Week"
                         type="Graphic Design"
-                        pop={<PopUp1/>}
-                        
+                        pop="Coming Soon"                        
                     /> 
                     <Box
                         src={WB}

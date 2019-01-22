@@ -4,6 +4,7 @@ import HomeImg from "./website.png"
 import img1 from "./webmasterpics/img1.jpg"
 import img2 from "./webmasterpics/img2.jpg"
 import Paragraph from './Paragraph.js'
+import img3 from "./webmasterpics/CCandidate.png"
 
 class PopUp2 extends Component {
 render(){
@@ -32,7 +33,10 @@ render(){
                                 <h3>The Project</h3>
                                 <p>
                                 
-                                    I was tasked with designing a website/platform for the University of Toronto Engineering Society to use during the Campaigning period. The purpose of this website is to augment the campaign process to allow for all candidates to have an equal platform.
+                                I was tasked with designing a website/platform for the University of Toronto Engineering Society to 
+                                use during the campaigning period. The purpose of this website is to augment the campaign process to 
+                                allow for all candidates to have an equal platform.
+
                                 </p>
                                 <span> </span>
                                 <p>
@@ -45,7 +49,7 @@ render(){
 
                                 </p>
                                 <p>
-                                    <b>Key Requirements (Given by my supervisor):</b>
+                                    <b>Key Requirements (given by my supervisor):</b>
                                     <ul>
                                         <li>Easy navigation between different campaigns and candidates </li>
                                         <li>
@@ -56,15 +60,15 @@ render(){
                                                 <ul>
                                                     <li>Graduating Year</li> 
                                                     <li>Discipline</li> 
-                                                    <li>Link to facebook campaign</li> 
+                                                    <li>Link to Facebook campaign</li> 
                                                     <li>Photo</li> 
                                                     <li>Relevant past experiences</li> 
-                                                    <li>a written voter profile</li> 
+                                                    <li>A written voter profile</li> 
                                                 </ul>
                                         </ul>
                                         </li>
-                                        <li>A Voter should be have a positive, clean, workless experience viewing a Candidate’s profile, 
-                                            which includes the above information as well as a history of violations they committed, which should be clear and evident
+                                        <li>A Voter should have a positive, clean, workless experience viewing a Candidate’s profile, 
+                                            that includes the above information as well as a history of violations they committed, which should be clear and evident
                                         </li>
                                     </ul>
 
@@ -75,7 +79,7 @@ render(){
                                 <p>I started the design process with rough wire-framing to brainstrom different layouts to display information. I focussed first on the 2 main components, the Candidate Profile and the website layout/navigation. </p>
                                
                                 <p><b>Candidate Profile</b></p>
-                                <p>Each Candidate profile required a lot of information to be displayed. In addition to static information, there will also be a "feed" which candidates are able to update to create a centralized space for campaigning.</p>
+                                <p>Each Candidate profile required a lot of information to be displayed. In addition to static information, there will also be a "feed" which candidates are able to update to create a centralized campaigning space.</p>
                                 <img src={img1}/>
                                 
                                 <table id="tablecomp">
@@ -115,6 +119,10 @@ render(){
                             <div id="part3">
                                 <h3>The Designs</h3>
                             </div>
+                            <Paragraph
+                                title="Campaigner User Interface"
+                            />
+                            <img src={img3}/>
                         </div>
                     <div class="col-lg-3 col-md-2 col-sm-1">
                     </div>
