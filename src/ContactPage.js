@@ -33,7 +33,7 @@ class ContactPage extends Component {
                                 <ContactLogo
                                     src={Logo1}
                                     name="LinkedIn"
-                                    link="linkedin.com/in/karenjyzhao"
+                                    link="https://linkedin.com/in/karenjyzhao"
                                 />
                             </td>
                             <td>

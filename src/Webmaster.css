@@ -28,7 +28,7 @@
     color:white;
 }
 #pop-up{
-    background-color: #fcfdff;
+    background-color: #dadada;
     z-index: 101;
     position:static;
 
@@ -61,22 +61,16 @@
     height:100%;
     overflow: scroll;
 }
-#display-background{
-    background-color:#f9f9f9;
-    height:500px;
-}
-#display-background img{
-    height:100%;
-}
-.modal-container{
 
-}
-#row{
-
-}
 #tablecomp td{
     color:black;
     text-align:left;
     padding:0px;
     margin:10px
+}
+#laptop{
+    padding: 50px 200px 50px 200px;
+}
+#laptop-brackgroun{
+    background-color:grey
 }

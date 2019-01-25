@@ -7,8 +7,8 @@
     background-color: #fcfdff;
     z-index:101;
 }
-#header-colour{
-    background-color: #d6e7f2;
+#header-colourcfc{
+    background-color: #FFF2EA;
     text-align:center;
     padding:10px;
     position:static;
@@ -45,8 +45,8 @@
 #display-background img{
     height:100%;
 }
-.modal-container{
-
+#header-colourg{
+    text-align:center;
 }
 #row{
 

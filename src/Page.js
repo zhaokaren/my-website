@@ -27,7 +27,7 @@ class Page extends Component {
                     <Box 
                         src={CFC}
                         name = "Cafes for Change"
-                        type="Graphic Design"
+                        type="Logo Design"
                         pop={<PopUp2/>}
 
                     />
@@ -35,7 +35,7 @@ class Page extends Component {
                         src={FW}
                         name ="Frosh Week"
                         type="Graphic Design"
-                        pop="Coming Soon"                        
+                        pop={<PopUp1/>}                      
                     /> 
                     <Box
                         src={WB}

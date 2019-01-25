@@ -36,29 +36,48 @@ u{
 .strips{
     height:16px;
     border-radius: 0px 8px 8px 0px;
+    display:block;
 }
 #rainbow2{
     float:right;
 }
 #r4{
-    width:400px;
-    background-color:#727373
+    width:800px;
+    background-color:#727373;
+    display:block;
 }
-#r5{
-    width:500px;
-    background-color:#61c2a9
-}
+
 #r6{
     width:600px;
     background-color:#f9d835
 
 }
+#r7{
+    width:700px;
+    background-color:#61c2a9
+}
 .strips2{
     float:right;
     height:16px;
     border-radius: 8px 0px 0px 8px;
-    display:inline-block;
+    display:block;
 }
 .homepage-display{
     width:150px;
+}
+.hover-enlarge:hover{
+    text-decoration:line-through;
+}
+.hover{
+    transform: scale(1.25); 
+    transition: transform .100s;
+}
+#one{
+    color:#fcb619
+}
+#two{
+    color:#61c2a9
+}
+#three{
+    color:#f3a633
 }

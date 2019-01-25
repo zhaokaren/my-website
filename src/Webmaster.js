@@ -19,10 +19,8 @@ render(){
                 </div>
             </div>
             <div class="modal-container">
-                <div id="display-background">
-                    <div>
-                    <img class="dp"src={HomeImg}/>
-                    </div>
+                <div id="laptop-brackgroun">
+                    <img id="laptop" src={HomeImg}/>
                 </div>
                 <div >
                     <div class="row">

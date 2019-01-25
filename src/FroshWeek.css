@@ -1,5 +1,5 @@
-#header-colourg{
-    background-color: #d6e7f2;
+#header-colourfw{
+    background-color: #f7e9ff;
     text-align:center;
     padding:10px;
     position:static;
@@ -29,12 +29,9 @@
     height:100%;
     overflow: scroll;
 }
-#display-background{
-    background-color:#f9f9f9;
-    height:500px;
-}
-#display-background img{
-    height:100%;
+
+.dpfw{
+    padding:30px 300px 30px 300px;
 }
 
 #row{
