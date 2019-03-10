@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "a9e97de3952567c47a7d",
-    "url": "/static/css/main.af728a7e.chunk.css"
+    "revision": "263a37cec3a6bf441d0a",
+    "url": "/static/css/main.26590e47.chunk.css"
   },
   {
-    "revision": "a9e97de3952567c47a7d",
-    "url": "/static/js/main.a9e97de3.chunk.js"
+    "revision": "263a37cec3a6bf441d0a",
+    "url": "/static/js/main.263a37ce.chunk.js"
   },
   {
-    "revision": "e2ad3b2f12ffcce88054",
-    "url": "/static/js/1.e2ad3b2f.chunk.js"
+    "revision": "8f431f40bfbcf5297d1c",
+    "url": "/static/js/1.8f431f40.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "85a4b3e935a0842352b77389ae1320f9",
-    "url": "/static/media/karen.85a4b3e9.png"
+    "revision": "30c90f76ad6c03005bec999bfb8689b4",
+    "url": "/static/media/OM-01.30c90f76.jpg"
   },
   {
     "revision": "f6217a5abfd52d0292d8b38c528e0420",
@@ -32,6 +32,30 @@ self.__precacheManifest = [
     "url": "/static/media/thinking.a5b70a1f.png"
   },
   {
+    "revision": "85a4b3e935a0842352b77389ae1320f9",
+    "url": "/static/media/karen.85a4b3e9.png"
+  },
+  {
+    "revision": "998abeb9ec11509b37455837691c03f3",
+    "url": "/static/media/pp.998abeb9.png"
+  },
+  {
+    "revision": "7fbd921f911502d883cd8c9cea840c3e",
+    "url": "/static/media/re-design-03.7fbd921f.svg"
+  },
+  {
+    "revision": "c8b1f421c7342b7797bcab453d290db2",
+    "url": "/static/media/re-design-04.c8b1f421.svg"
+  },
+  {
+    "revision": "17f0983cc747ee339e6ac1fc1cece456",
+    "url": "/static/media/re-design-06.17f0983c.svg"
+  },
+  {
+    "revision": "0d47b1a3ec5c408e7782e32eb80d0505",
+    "url": "/static/media/re-design-05.0d47b1a3.svg"
+  },
+  {
     "revision": "f3805acd2aaf77b3583b3295ab5b35b5",
     "url": "/static/media/LinkedIn.f3805acd.png"
   },
@@ -42,6 +66,30 @@ self.__precacheManifest = [
   {
     "revision": "10d854eccd9b944c7c807e3d8e7c591e",
     "url": "/static/media/Github.10d854ec.png"
+  },
+  {
+    "revision": "7a18a89f8db3cddc449af4803d562d05",
+    "url": "/static/media/cfc.7a18a89f.png"
+  },
+  {
+    "revision": "a5dc2dac6c4f1693e55de505f583204d",
+    "url": "/static/media/mmdisplay.a5dc2dac.jpg"
+  },
+  {
+    "revision": "8c5beed011008108f79cd05d48ebda76",
+    "url": "/static/media/FW.8c5beed0.jpg"
+  },
+  {
+    "revision": "749cee8f6ad746984fd02ccb0bf9819f",
+    "url": "/static/media/web.749cee8f.png"
+  },
+  {
+    "revision": "8b47f70808ffa31e078cc559f3e23572",
+    "url": "/static/media/WD.8b47f708.jpg"
+  },
+  {
+    "revision": "ebb11c4473fbd6ca1148c62ff83d10ae",
+    "url": "/static/media/shareceipt.ebb11c44.jpg"
   },
   {
     "revision": "c56168b5e2515243b8a85edd8364f33b",
@@ -62,22 +110,6 @@ self.__precacheManifest = [
   {
     "revision": "0666457bbf306bda8c717a98623e0a61",
     "url": "/static/media/CCandidate.0666457b.png"
-  },
-  {
-    "revision": "7a18a89f8db3cddc449af4803d562d05",
-    "url": "/static/media/cfc.7a18a89f.png"
-  },
-  {
-    "revision": "a5dc2dac6c4f1693e55de505f583204d",
-    "url": "/static/media/mmdisplay.a5dc2dac.jpg"
-  },
-  {
-    "revision": "82a39173afd265795eb4d0bcfecbb387",
-    "url": "/static/media/froshsticker.82a39173.png"
-  },
-  {
-    "revision": "749cee8f6ad746984fd02ccb0bf9819f",
-    "url": "/static/media/web.749cee8f.png"
   },
   {
     "revision": "726cca930522da97a35a49c6364104be",
@@ -104,6 +136,14 @@ self.__precacheManifest = [
     "url": "/static/media/minion.8bf319ef.jpg"
   },
   {
+    "revision": "83842ed4370f65278068fdde637ba965",
+    "url": "/static/media/WD_Poster-01.83842ed4.jpg"
+  },
+  {
+    "revision": "7ce01e2de6ad823895968368df1893ba",
+    "url": "/static/media/WD_Poster-02.7ce01e2d.jpg"
+  },
+  {
     "revision": "1c7836596fb375443dda236fb2a99c4e",
     "url": "/static/media/cfccomp.1c783659.png"
   },
@@ -112,7 +152,7 @@ self.__precacheManifest = [
     "url": "/static/media/cfccolour.b3e4d3bd.png"
   },
   {
-    "revision": "917e26205759731e50916eab8def5525",
+    "revision": "961e16e7ff787f715280c87daea68dd6",
     "url": "/index.html"
   }
 ];
