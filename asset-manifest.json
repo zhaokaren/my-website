@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.3de5f72b.chunk.css",
-  "main.js": "/static/js/main.79d76674.chunk.js",
-  "main.js.map": "/static/js/main.79d76674.chunk.js.map",
+  "main.js": "/static/js/main.c95e2879.chunk.js",
+  "main.js.map": "/static/js/main.c95e2879.chunk.js.map",
   "static/js/1.ceff5c0f.chunk.js": "/static/js/1.ceff5c0f.chunk.js",
   "static/js/1.ceff5c0f.chunk.js.map": "/static/js/1.ceff5c0f.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -43,13 +43,13 @@
   "static/media/Screens-03.jpg": "/static/media/Screens-03.ffffc03a.jpg",
   "static/media/Screens-04.jpg": "/static/media/Screens-04.d259187f.jpg",
   "static/media/Screens-05.jpg": "/static/media/Screens-05.2e2921a6.jpg",
-  "static/media/mini-logo-05.png": "/static/media/mini-logo-05.76fafd34.png",
-  "static/media/mini-logo-07.png": "/static/media/mini-logo-07.8173a401.png",
+  "static/media/mini-logo-05.png": "/static/media/mini-logo-05.c2620595.png",
+  "static/media/mini-logo-07.png": "/static/media/mini-logo-07.9486fad5.png",
   "static/media/mini-logo-06.png": "/static/media/mini-logo-06.f72c4659.png",
   "static/media/cfccomp.png": "/static/media/cfccomp.1c783659.png",
   "static/media/cfccolour.png": "/static/media/cfccolour.b3e4d3bd.png",
   "static/css/main.3de5f72b.chunk.css.map": "/static/css/main.3de5f72b.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.9165e4cfa96a4ee60cda434a1a2c53cf.js": "/precache-manifest.9165e4cfa96a4ee60cda434a1a2c53cf.js",
+  "precache-manifest.6173d7ebb4f0a88c9c1ab862604c8041.js": "/precache-manifest.6173d7ebb4f0a88c9c1ab862604c8041.js",
   "service-worker.js": "/service-worker.js"
 }
