@@ -1,9 +1,9 @@
 {
-  "main.css": "/static/css/main.357ad5cd.chunk.css",
-  "main.js": "/static/js/main.de97d004.chunk.js",
-  "main.js.map": "/static/js/main.de97d004.chunk.js.map",
-  "static/js/1.9bf97a13.chunk.js": "/static/js/1.9bf97a13.chunk.js",
-  "static/js/1.9bf97a13.chunk.js.map": "/static/js/1.9bf97a13.chunk.js.map",
+  "main.css": "/static/css/main.7cc5e421.chunk.css",
+  "main.js": "/static/js/main.9d30f62c.chunk.js",
+  "main.js.map": "/static/js/main.9d30f62c.chunk.js.map",
+  "static/js/1.6ecb3fa7.chunk.js": "/static/js/1.6ecb3fa7.chunk.js",
+  "static/js/1.6ecb3fa7.chunk.js.map": "/static/js/1.6ecb3fa7.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/OM-01.jpg": "/static/media/OM-01.30c90f76.jpg",
@@ -30,6 +30,7 @@
   "static/media/caffiends-cover.jpg": "/static/media/caffiends-cover.c9acc8e5.jpg",
   "static/media/bdaycard.jpg": "/static/media/bdaycard.51984965.jpg",
   "static/media/MakeUofT.png": "/static/media/MakeUofT.e86f4c4b.png",
+  "static/media/colourscheme.jpg": "/static/media/colourscheme.c7927af4.jpg",
   "static/media/mini-logo-05.png": "/static/media/mini-logo-05.c2620595.png",
   "static/media/mini-logo-07.png": "/static/media/mini-logo-07.9486fad5.png",
   "static/media/mini-logo-06.png": "/static/media/mini-logo-06.f72c4659.png",
@@ -38,8 +39,8 @@
   "static/media/shareceipt.jpg": "/static/media/shareceipt.ebb11c44.jpg",
   "static/media/cfccomp.png": "/static/media/cfccomp.1c783659.png",
   "static/media/cfccolour.png": "/static/media/cfccolour.b3e4d3bd.png",
-  "static/css/main.357ad5cd.chunk.css.map": "/static/css/main.357ad5cd.chunk.css.map",
+  "static/css/main.7cc5e421.chunk.css.map": "/static/css/main.7cc5e421.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.3684f3b2df4f76ba196b1acc763c4176.js": "/precache-manifest.3684f3b2df4f76ba196b1acc763c4176.js",
+  "precache-manifest.a12a14a959c7b7de8e3b9db113a180f5.js": "/precache-manifest.a12a14a959c7b7de8e3b9db113a180f5.js",
   "service-worker.js": "/service-worker.js"
 }
