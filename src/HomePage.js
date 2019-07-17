@@ -4,6 +4,8 @@ import coffee from "./coffee.png"
 import design from "./design.png";
 import think from './thinking.png'
 import $ from 'jquery'; 
+import 
+
 class HomePage extends Component {
     render(){
         return(
@@ -86,7 +88,6 @@ $(document).ready(function() {
         function() {
         $("#threee").removeClass('hover');}
         );
-    
 
     
     });

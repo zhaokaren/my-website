@@ -1,33 +1,34 @@
 
 .SideBar {
     text-align:center;
-    width:240px;
-    background-color:white;
+    width:200px;
     height:100vh;
     display:fixed;
 }
 .SideBar a{
     color:black;
-    padding: 5px 8px 5px 90px;
     display:block;
     font-size:14px;
+    padding-left:50px;
     text-align:left;
     font-weight:300;
     z-index:2;
 }
 .logo{
-    width: 50%;
-    padding-top: 60px;
-    padding-bottom: 60px;
-    
-    
+    width:50%;
+    padding-top:20%;
+}
+#sidebar-container{
+    padding-top:20%;
 }
 footer{
-    background-image: linear-gradient(to right,#61c2a9,#f9d835,#f3a633); 
     height: 23px;
-    color:white; 
+    color:lightgray; 
     width:100%;
     position: absolute;
     left: 0;
     bottom: 0; 
+}
+.link{
+    color:pink
 }

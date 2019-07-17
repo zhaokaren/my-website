@@ -1,0 +1,31 @@
+#profilepic{
+    width:15%;
+}
+#body1 {
+    height:100vh;
+}
+#contacts{
+    width:60%
+}
+.logos{
+    padding-right:0px;
+    padding-left:0px;
+    transition: transform .2s;
+}
+.logos:hover{
+    transform: scale(1.5)
+}
+.body-cont{
+    padding-top:20vh
+}
+.arrow{
+    width:14px;
+}
+.arrow-text{
+    color:#C8C8C8;
+    margin:auto;
+    left:0;
+    right:0;
+    bottom:0;
+    font-size:20px;
+}

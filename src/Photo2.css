@@ -1,0 +1,10 @@
+.display-cube{
+}
+.display-cube:hover{
+    webkit-filter: blur(3px); 
+    filter: blur(3px);
+    transition: 1s;
+}
+.display-title{
+
+}

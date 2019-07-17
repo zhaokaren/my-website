@@ -1,7 +1,8 @@
 import React, {Component} from 'react'
 import Paragraph from './Paragraph'
 import './MinionMunch.css'
-import Minion from "./mmpics/minion.jpg"
+import Minion from "./mmpics/mmd.png"
+
 class PopUp1 extends Component {
     render(){
         return(
@@ -17,22 +18,22 @@ class PopUp1 extends Component {
             <div class="modal-container">
                 <div id="display-backgroundm">
                     <div class="row">
-                        <div class="col-lg-6 col-md-6 col-sm-6">
-                        <img id="mmdp" src={Minion} />
+                        <div class="col-lg-3 col-md-3 col-sm-3">
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6" id="para">
+                        <div class="col-lg-6 col-md-6 col-sm-6" >
+                        <img id="mmdp" src={Minion} />
                             <h3>The Project</h3>
                             <p>The purpose of this project was to design 
                                 a cereal box using photoshop with a popular cartoon/brand.</p>
                       
                         </div>
-
-                    <div>
-                    
+                        <div class="col-lg-3 col-md-3 col-sm-3">
+                        </div>
+                    </div>
+                    <div class="bottom">
                     </div>
                     </div>
                 </div>
-            </div>
             </div>
         );
     }

@@ -42,6 +42,8 @@ render(){
                         <div class="col-lg-3 col-md-2 col-sm-1">
                         </div>
                     </div>
+                    <div class="bottom">
+                    </div>
                 </div>
             </div>
             </div>

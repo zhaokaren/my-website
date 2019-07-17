@@ -1,8 +1,10 @@
-#body1{
-    margin-left:240px;
-    padding-top:20px;
-   
+#body1 {
+    padding-top:20px; 
 }
-.row-block{
-    display:inline-block
+.header{
+    text-align: center
+}
+.rows{
+    padding-left:250px;
+    padding-right: 250px;
 }

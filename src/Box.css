@@ -10,10 +10,42 @@ img{
     transition: 0.5s;
 }
 
-.me{
+.container{
+    padding:0;
+    overflow:hidden;
+}
+.container:hover .overlay{
+    transform: translate3d(0,-275%,0);
+}
+.overlay{
     position:absolute;
+    top:100%;
+    left:0;
+    right:0;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:0;
+    color:black;
+    transition: .5s ease;
+    
+}
+.overlay h2{
+    text-align:center;
+    margin-bottom:5px;
+    text-shadow: 2px 2px white;
+}
+.overlay h5{
+    text-align:center;
+    background-color: white;
+    padding: 10px;
+    border-radius:50px;
+}
+.type-tag{
     display:inline-block;
 }
-#block{
-    display:inline-block
+#x-box{
+    display:block;
+    background-color:black;
 }
+
+  
